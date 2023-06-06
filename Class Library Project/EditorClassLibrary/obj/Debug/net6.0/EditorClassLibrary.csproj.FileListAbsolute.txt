@@ -1,0 +1,12 @@
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\bin\Debug\net6.0\EditorClassLibrary.deps.json
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\bin\Debug\net6.0\EditorClassLibrary.dll
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\bin\Debug\net6.0\ref\EditorClassLibrary.dll
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\bin\Debug\net6.0\EditorClassLibrary.pdb
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\obj\Debug\net6.0\EditorClassLibrary.csproj.AssemblyReference.cache
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\obj\Debug\net6.0\EditorClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\obj\Debug\net6.0\EditorClassLibrary.AssemblyInfoInputs.cache
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\obj\Debug\net6.0\EditorClassLibrary.AssemblyInfo.cs
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\obj\Debug\net6.0\EditorClassLibrary.csproj.CoreCompileInputs.cache
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\obj\Debug\net6.0\EditorClassLibrary.dll
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\obj\Debug\net6.0\ref\EditorClassLibrary.dll
+D:\UnityProjects\Unity2DProjectPractice\Class Library Project\EditorClassLibrary\obj\Debug\net6.0\EditorClassLibrary.pdb
